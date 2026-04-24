@@ -46,6 +46,6 @@
 <br/>
 <div align="center">
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/569254418646564950?bg=291635&idleMessage=nop%20sled%20mode&hideSpotify=true)](https://discord.com/users/569254418646564950)<img src="https://github.com/0xStraw-Hat/StrawHat/blob/main/e26c90b8f8737870a09bbad47538522c.gif" width="550" align="right">
+[![Discord Presence](https://lanyard.cnrad.dev/api/569254418646564950?bg=291635&idleMessage=nop%20sled%20mode&hideSpotify=true)](https://discord.com/users/569254418646564950)<img src="https://github.com/0xStraw-Hat/StrawHat/blob/main/e26c90b8f8737870a09bbad47538522c.gif" width="450" align="right">
   <br/><br/><br/>
 </div>
